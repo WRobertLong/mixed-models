@@ -35,7 +35,7 @@ This repository contains the cleaned and maintained subset intended for reuse.
 
 ## Authors
 
-Robert Long  [Top answerer of All Time]
+Robert Long  [Top answerer of All Time on the mixed-model tag]
 https://stats.stackexchange.com/tags/mixed-model/topusers
-Joe King  [Top Asker of All Time
+Joe King  [Top Asker of All Time on the mixed-model tag]
 https://stats.stackexchange.com/tags/mixed-model/topusers
